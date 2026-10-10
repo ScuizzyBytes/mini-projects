@@ -1,34 +1,39 @@
-# 🚀 My First Python Mini-Projects Collection
+# 🧪 Python Mini-Projects & Practice Lab
 
-Сборник моих первых практических мини-проектов на **Python**! В этом репозитории собраны утилиты, графические интерфейсы (GUI) и скрипты, с которых я начинал свой путь в программировании и разработке.
-
----
-
-## 📂 Проекты в подборке
-
-### 🔒 1. Password Generator
-* **Описание**: Консольный генератор случайных и безопасных паролей.
-* **Функционал**: Запрос желаемой длины и создание уникальных комбинаций из букв и цифр.
-* **Технологии**: Python (`random`).
+Welcome to my personal collection of **Python Mini-Projects**! 🚀  
+This repository contains short scripts, experiments, algorithm practices, and small automation tools that I build while honing my Python skills.
 
 ---
 
-### ⌨️ 2. Virtual Keyboard Presser
-* **Описание**: Экранная виртуальная клавиатура с полупрозрачным современным интерфейсом.
-* **Функционал**: Нажатие по кнопкам эмулирует ввод физической клавиатуры в операционной системе.
-* **Технологии**: Python, `CustomTkinter`, `PyAutoGUI`.
+## 📂 Project Categories & Topics
+
+Here are the main areas explored in this repository:
+
+1. **Calculators & Math Tools:** Basic arithmetic, CustomTkinter GUIs, and statistical scripts.
+2. **Data Manipulation & NumPy:** Array operations, conditional filtering, and data cleaning experiments.
+3. **Game Prototypes & Graphics:** 2D mechanics and graphics tests built with `Pygame`.
+4. **Computer Vision & OpenCV:** Camera feeds, image manipulation, and visual processing.
+5. **System & Terminal Dashboards:** Command-line status tools and system metrics tracking using `rich` and `psutil`.
 
 ---
 
-### 🧮 3. GUI Calculator
-* **Описание**: Графический калькулятор с большими кнопками и умным отображением чисел.
-* **Функционал**: Поддержка базовой арифметики (`+`, `-`, `*`, `/`), посимвольное удаление ввода и автоформатирование целых чисел.
-* **Технологии**: Python, `CustomTkinter`.
+## 🛠️ Tech Stack & Environment
+
+- **Language:** Python 3.x
+- **Key Libraries:** `numpy`, `customtkinter`, `pygame`, `opencv-python`, `rich`, `psutil`
+- **IDE:** Visual Studio Code / PyCharm
+- **Version Control:** Git & GitHub
 
 ---
 
-## 🛠 Установка и запуск
+## 📈 Goals & Roadmap
 
-1. **Клонируйте репозиторий**:
-   ```bash
-   git clone [https://github.com/your-username/mini-projects.git](https://github.com/your-username/mini-projects.git)
+- [x] Practice basic syntax and control flow.
+- [x] Experiment with GUI libraries (`CustomTkinter`).
+- [x] Master NumPy statistical and logical filtering routines.
+- [ ] Build more CLI monitoring dashboards.
+- [ ] Implement complex algorithms and data structures.
+
+---
+
+*Driven by code, power, and beauty. Continuous progress every day! 💻✨*
