@@ -21,7 +21,7 @@ cv.imshow('Comic', img)
 
 # # Eroding the image
 # eroded = cv.erode(dilated, (7, 7), iterations=2)
-# cv.imshow('Eroded', eroded)
+# cv.imshow('Eroded', erode
 
 # Resize
 resized = cv.resize(img, (500, 500), interpolation=cv.INTER_CUBIC)
